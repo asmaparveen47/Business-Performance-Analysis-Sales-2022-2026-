@@ -9,6 +9,9 @@ February is the weakest month.
 May and August are the strongest months.
 The last quarter (October–December) shows stable and high revenue.
 
+<img width="722" height="457" alt="Screenshot 2026-10-03 182537" src="https://github.com/user-attachments/assets/d45aa123-a020-4951-a667-3d40abca7353" />
+
+
 # 2. Product Performance
 
 Top products: Product 26 and Product 25 generate the highest revenue (over $100 million each).
