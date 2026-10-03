@@ -40,7 +40,7 @@ High revenue + High margin (most valuable)
 High revenue + Low margin
 Low revenue + High margin
 Low revenue + Low margin
-<img width="1242" height="395" alt="Screenshot 2026-10-03 182707" src="https://github.com/user-attachments/assets/b3d47d6b-aa60-4d73-beb9-ed57194bb9b7" />
+
 <img width="1215" height="477" alt="Screenshot 2026-10-03 182648" src="https://github.com/user-attachments/assets/ff55358f-43b4-4d03-8828-943d4cc92c31" />
 
 # 5. Geographic Performance
@@ -49,8 +49,8 @@ California is the clear leader in both total revenue and number of orders.
 Illinois, Florida, and Texas are also strong performers.
 New York has high revenue but relatively fewer orders (higher average order value).
 Indiana has many orders but lower revenue.
-![Uploading Screenshot 2026-10-03 182707.png…]()
 
+<img width="1242" height="395" alt="Screenshot 2026-10-03 182707" src="https://github.com/user-attachments/assets/b3d47d6b-aa60-4d73-beb9-ed57194bb9b7" />
 
 # 6. Order Value & Pricing
 
