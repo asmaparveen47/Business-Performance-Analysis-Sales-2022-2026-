@@ -71,5 +71,5 @@ Price and cost drive profitability more than the number of units sold.
 # Overall Conclusion:
 The business is heavily driven by a few strong products, the Wholesale channel, and California. While sales volume is important, pricing has a bigger impact on revenue and profit. There is clear opportunity to improve performance in weaker months (especially February), low-performing products, and lower-value customer segments.
 
-power bi dashboard link -
+power bi dashboard link - https://app.powerbi.com/view?r=eyJrIjoiNmFmM2Y2YWEtZmY5MC00NDlhLTg2ZjQtOTA2OTZmMDVlZDVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 <img width="802" height="461" alt="Screenshot 2026-09-17 221940" src="https://github.com/user-attachments/assets/05906c90-8c62-42cf-81ac-c499e80b4773" />
