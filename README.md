@@ -2,7 +2,8 @@
 Overall Summary of the Sales Analysis Project
 This project analyzed a sales dataset covering orders from 2022 to 2025 (after removing incomplete 2026 data). 
 
-**Target**The goal was to understand sales performance across time, products, customers, channels, and locations.
+**Problem statement**
+The goal was to understand sales performance across time, products, customers, channels, and locations.
 
 # 1. Sales Trend Over Time
 
